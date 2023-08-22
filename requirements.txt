@@ -5,3 +5,4 @@ scikit_learn
 librosa
 tqdm
 ffmpeg
+pydub
