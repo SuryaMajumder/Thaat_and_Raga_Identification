@@ -1,0 +1,7 @@
+matplotlib
+tensorflow
+numpy
+scikit_learn
+librosa
+tqdm
+ffmpeg
