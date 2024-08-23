@@ -5,7 +5,7 @@
 #### [Surya Majumder](https://www.linkedin.com/in/surya-majumder-333891246/) and [Adrija Bhattacharya](https://in.linkedin.com/in/adrija-bhattacharya-482865114)
 
 
-Published in PLOS One (Mar 2024), Springer
+Published in Innovations in Systems and Software Engineering (Oct 2023), Springer
 
 [Link to Paper](https://doi.org/10.1007/s11334-023-00541-2) 
 
