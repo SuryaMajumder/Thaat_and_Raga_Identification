@@ -17,7 +17,7 @@ Western music has been under the radar of computational musicology for quite som
 
 
 ## Dataset
-![TRF Dataset](https://github.com/user-attachments/assets/ed353ab0-af47-4a6f-b756-f94bdf86b683)
+![TRF Dataset](https://github.com/user-attachments/assets/cb60ff49-b4bd-46a9-b879-b187f9b643af)
 
 ### Data Sample
 ![data sample](https://github.com/user-attachments/assets/bdfd7ea0-c411-455c-94ad-9d0703ad76db)
