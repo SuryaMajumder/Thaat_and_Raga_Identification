@@ -16,6 +16,13 @@ Published in PLOS One (Mar 2024), Springer
 Western music has been under the radar of computational musicology for quite some time now. However, Indian Classical Music is one of the prominent areas that is not extensively researched. In this manuscript, Deep Learning models are used in Indian Classical Music. It is often important to identify the Thaats and Ragas of a song computationally for further applications such as sentiment-based recommendation and identification. The Deep Learning model implemented here analyzes the Mel Spectrogram, STFT Spectrogram, and Chromagram of any song/music piece to classify it into different required categories with the help of CNN. On extensive testing, it is inferred that the proposed system is highly effective in the identification with high accuracy.
 
 
+## Dataset
+![TRF Dataset](https://github.com/user-attachments/assets/ed353ab0-af47-4a6f-b756-f94bdf86b683)
+
+### Data Sample
+![data sample](https://github.com/user-attachments/assets/bdfd7ea0-c411-455c-94ad-9d0703ad76db)
+
+
 ## Citation
 If you're using this article or code in your research or applications, please consider citing using this BibTeX:
 
